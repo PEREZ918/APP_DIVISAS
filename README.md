@@ -103,12 +103,5 @@ DivisasApp/
 
 ---
 
-## 📄 Licencia
 
-Este proyecto está bajo la Licencia [MIT](LICENSE). Siéntete libre de usarlo, modificarlo y distribuirlo.
 
----
-
-<p center>
-  Desarrollado con ❤️ en Kotlin y Jetpack Compose.
-</p>
